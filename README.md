@@ -1,6 +1,6 @@
 ## Mini RAG Retrieval Experiment
 
-This repository contains a minimal Retrieval-Augmented Generation (RAG) setup used in the accompanying article on Medium (https://medium.com/@schuerch_sarah).
+This repository contains a minimal Retrieval-Augmented Generation (RAG) setup.
 
 The goal is to isolate and understand the retrieval step by experimenting with different chunk sizes and similarity scores.
 There is no chat history, no memory and no LLM-based answer generation.
